@@ -161,6 +161,10 @@ params:
       description: Portal de Informações e Notícias do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/
+    - name: Serviços de TI IFPE
+      description: Serviços de Tecnologia da Informação do IFPE.
+      category: IFPE
+      link: https://www.ifpe.edu.br/o-ifpe/tecnologia-da-informacao/servicos/
     
     
  
