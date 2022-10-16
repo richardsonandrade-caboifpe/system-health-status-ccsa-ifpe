@@ -143,12 +143,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
     - name: IFPE
-    - name: IFPE-CCSA
+    - name: CCSA.IFPE
     - name: GOV
     - name: Uncategorized
       untitled: true
@@ -161,60 +157,95 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: IFPE Website
-      description: The web frontend for the application.
+    - name: IFPE 
+      description: Portal de Informações e Notícias do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/
-    - name: IFPE TI Website
-      description: The web frontend for the application.
+    - name: Serviços de TI IFPE  
+      description: Serviços de Tecnologia da Informação do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/o-ifpe/tecnologia-da-informacao/servicos/
-    - name: Abertura de Chamados Website
-      description: The web frontend for the application.
+    - name: Abertura de Chamados de TI
+      description: Abertura de Chamados de Tecnologia da Informação IFPE.
       category: IFPE
       link: https://ti.ifpe.edu.br/atendimento/
-    - name: Meu Acesso Website
-      description: Gerencie sua conta .
+    - name: Meu Acesso
+      description: Gerencie sua conta: troca de senha ou alteração de dados.
       category: IFPE
       link: https://acesso.ifpe.edu.br/
-    - name: Cadastro Website
-      description: The web frontend for the application.
+    - name: Cadastro
+      description: Solicitação de Cadastro aos Sistemas IFPE.
       category: IFPE
       link: https://cadastro.ifpe.edu.br/signup
-    - name: Meu Email IFPE  Website
+    - name: Meu Email IFPE
       description: E-mail Institucional do IFPE.
       category: IFPE
       link: https://meuemail.ifpe.edu.br/
-    - name: SUAP IFPE  Website
-      description: Sistema Unificado da Administracao Publica IFPE.
+    - name: SUAP IFPE
+      description: Sistema Unificado da Administração Pública do IFPE.
       category: IFPE
       link: https://suap.ifpe.edu.br/
-    - name: Fluxo IFPE  Website
-      description: Plataforma de Submissao Online
+    - name: Fluxo IFPE
+      description: Plataforma de Submissão Online do IFPE.
       category: IFPE
       link: https://fluxo.ifpe.edu.br/
     - name: Florescer IFPE Website
-      description: Sistema de apoio ao desenvolvimento de pessoas
+      description: Sistema de Apoio ao Desenvolvimento de Pessoas do IFPE.
       category: IFPE
       link: https://florescer.ifpe.edu.br/
     - name: Florescer IFPE Website
-      description: Sistema para inscrição e administração da remoção interna de servidores do IFPE.
+      description: Sistema para Inscrição e Administração da Remoção Interna de Servidores do IFPE.
       category: IFPE
       link: https://remocao.ifpe.edu.br/
     - name: SEI IFPE
       description: Sistema Eletrônica de Informações do IFPE.
       category: IFPE
       link: https://sei.ifpe.edu.br/
-    - name: Diploma Graduacao IFPE
-      description: Consulta Pública de Registros de Diplomas.
+    - name: Diploma Graduação IFPE
+      description: Consulta Pública de Registros de Diplomas do IFPE.
       category: IFPE
-      link: https://sei.ifpe.edu.br/
-    
+      link: https://diplomagraduacao.ifpe.edu.br/
+    - name: Workflow IFPE
+      description: Plataforma de Submissão Formulários Online do IFPE.
+      category: IFPE  
+      link: https://workflow.ifpe.edu.br/
+    - name: SIAGS/SIAFI/SIADS Grande Porte (HOD)
+      description: Grade Porte HOD Rede Serpro.
+      category: GOV
+      link: https://hod.serpro.gov.br/
+    - name: Compras GOV.BR
+      description: Compras Governamentais.
+      category: GOV
+      link: http://www.comprasgovernamentais.gov.br/
+    - name: SCDP
+      description: Sistema de Concessão de Diárias e Passagens.
+      category: GOV
+      link: https://www2.scdp.gov.br/novoscdp/home.xhtml
+    - name: SIGEPE
+      description: Sistema de Gestão de Pessoas SIGEPE.
+      category: GOV
+      link: https://sso.gestaodeacesso.planejamento.gov.br/
+    - name: SIGEPE
+      description: Sistema de Gestão de Pessoas SIGEPE.
+      category: GOV
+      link: https://sso.gestaodeacesso.planejamento.gov.br/
+    - name: Abertura de Chamados de Suporte 
+      description: Sistema Interno de Abertura de Chamados do CCSA-IFPE.
+      category: CCSA.IFPE
+      link: http://ti.cabo.ifpe.edu.br/atendimento/
+    - name: SISTD
+      description: Sistema Interno de Transporte e Diáris do CCSA-IFPE.
+      category: CCSA.IFPE
+      link: http://transporte.cabo.ifpe.edu.br/
+
+
+
+ 
      
 
   # What date format to use?
   #
-  # Hugo formatting docs:
+  # Hugo formatting docs: 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   #
   # Technical: GOLANG/HUGO .Date.Format & dateFormat
