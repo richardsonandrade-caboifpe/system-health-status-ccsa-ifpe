@@ -144,7 +144,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: IFPE
-    - name: CCSA.IFPE
+    - name: CCSA-IFPE
     - name: GOV
     - name: Uncategorized
       untitled: true
@@ -176,7 +176,7 @@ params:
     - name: Cadastro
       description: Solicitação de Cadastro aos Sistemas IFPE.
       category: IFPE
-      link: https://cadastro.ifpe.edu.br/signup
+      link: https://cadastro.ifpe.edu.br/signup/
     - name: Meu Email IFPE
       description: E-mail Institucional do IFPE.
       category: IFPE
@@ -225,21 +225,14 @@ params:
       description: Sistema de Gestão de Pessoas SIGEPE.
       category: GOV
       link: https://sso.gestaodeacesso.planejamento.gov.br/
-    - name: SIGEPE
-      description: Sistema de Gestão de Pessoas SIGEPE.
-      category: GOV
-      link: https://sso.gestaodeacesso.planejamento.gov.br/
     - name: Abertura de Chamados de Suporte 
       description: Sistema Interno de Abertura de Chamados do CCSA-IFPE.
-      category: CCSA.IFPE
+      category: CCSA-IFPE
       link: http://ti.cabo.ifpe.edu.br/atendimento/
     - name: SISTD
       description: Sistema Interno de Transporte e Diáris do CCSA-IFPE.
-      category: CCSA.IFPE
+      category: CCSA-IFPE
       link: http://transporte.cabo.ifpe.edu.br/
-
-
-
  
      
 
