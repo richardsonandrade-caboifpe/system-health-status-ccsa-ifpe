@@ -161,54 +161,7 @@ params:
       description: Portal de Informações e Notícias do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/
-    - name: Serviços de TI IFPE
-      description: Serviços de Tecnologia da Informação do IFPE.
-      category: IFPE
-      link: https://www.ifpe.edu.br/o-ifpe/tecnologia-da-informacao/servicos/
-    - name: Abertura de Chamados de TI
-      description: Abertura de Chamados de Tecnologia da Informação IFPE.
-      category: IFPE
-      link: https://ti.ifpe.edu.br/atendimento/
-    - name: Meu Acesso
-      description: Gerencie sua conta: troca de senha ou alteração de dados.
-      category: IFPE
-      link: https://acesso.ifpe.edu.br/
-    - name: Cadastro
-      description: Solicitação de Cadastro aos Sistemas IFPE.
-      category: IFPE
-      link: https://cadastro.ifpe.edu.br/signup/
-    - name: Meu Email IFPE
-      description: E-mail Institucional do IFPE.
-      category: IFPE
-      link: https://meuemail.ifpe.edu.br/
-    - name: SUAP IFPE
-      description: Sistema Unificado da Administração Pública do IFPE.
-      category: IFPE
-      link: https://suap.ifpe.edu.br/
-    - name: Fluxo IFPE
-      description: Plataforma de Submissão Online do IFPE.
-      category: IFPE
-      link: https://fluxo.ifpe.edu.br/
-    - name: Florescer IFPE Website
-      description: Sistema de Apoio ao Desenvolvimento de Pessoas do IFPE.
-      category: IFPE
-      link: https://florescer.ifpe.edu.br/
-    - name: Florescer IFPE Website
-      description: Sistema para Inscrição e Administração da Remoção Interna de Servidores do IFPE.
-      category: IFPE
-      link: https://remocao.ifpe.edu.br/
-    - name: SEI IFPE
-      description: Sistema Eletrônica de Informações do IFPE.
-      category: IFPE
-      link: https://sei.ifpe.edu.br/
-    - name: Diploma Graduação IFPE
-      description: Consulta Pública de Registros de Diplomas do IFPE.
-      category: IFPE
-      link: https://diplomagraduacao.ifpe.edu.br/
-    - name: Workflow IFPE
-      description: Plataforma de Submissão Formulários Online do IFPE.
-      category: IFPE
-      link: https://workflow.ifpe.edu.br/
+    
     
  
   # What date format to use?
