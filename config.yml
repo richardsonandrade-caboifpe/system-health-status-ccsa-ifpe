@@ -144,7 +144,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: IFPE
-    - name: CCSA-IFPE
+    - name: CCSA
     - name: GOV
     - name: Uncategorized
       untitled: true
@@ -157,11 +157,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: IFPE 
+    - name: IFPE
       description: Portal de Informações e Notícias do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/
-    - name: Serviços de TI IFPE  
+    - name: Serviços de TI IFPE
       description: Serviços de Tecnologia da Informação do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/o-ifpe/tecnologia-da-informacao/servicos/
@@ -207,7 +207,7 @@ params:
       link: https://diplomagraduacao.ifpe.edu.br/
     - name: Workflow IFPE
       description: Plataforma de Submissão Formulários Online do IFPE.
-      category: IFPE  
+      category: IFPE
       link: https://workflow.ifpe.edu.br/
     - name: SIAGS/SIAFI/SIADS Grande Porte (HOD)
       description: Grade Porte HOD Rede Serpro.
@@ -227,15 +227,13 @@ params:
       link: https://sso.gestaodeacesso.planejamento.gov.br/
     - name: Abertura de Chamados de Suporte 
       description: Sistema Interno de Abertura de Chamados do CCSA-IFPE.
-      category: CCSA-IFPE
+      category: CCSA
       link: http://ti.cabo.ifpe.edu.br/atendimento/
     - name: SISTD
       description: Sistema Interno de Transporte e Diáris do CCSA-IFPE.
-      category: CCSA-IFPE
+      category: CCSA
       link: http://transporte.cabo.ifpe.edu.br/
  
-     
-
   # What date format to use?
   #
   # Hugo formatting docs: 
