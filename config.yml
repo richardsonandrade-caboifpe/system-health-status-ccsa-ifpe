@@ -165,6 +165,22 @@ params:
       description: Serviços de Tecnologia da Informação do IFPE.
       category: IFPE
       link: https://www.ifpe.edu.br/o-ifpe/tecnologia-da-informacao/servicos/
+    - name: Abertura de Chamados de TI
+      description: Abertura de Chamados de Tecnologia da Informação IFPE.
+      category: IFPE
+      link: https://ti.ifpe.edu.br/atendimento/
+    - name: Meu Acesso
+      description: Gerencie sua conta: troca de senha ou alteração de dados.
+      category: IFPE
+      link: https://acesso.ifpe.edu.br/
+    - name: Cadastro
+      description: Solicitação de Cadastro aos Sistemas IFPE.
+      category: IFPE
+      link: https://cadastro.ifpe.edu.br/signup/
+    - name: Meu Email IFPE
+      description: E-mail Institucional do IFPE.
+      category: IFPE
+      link: https://meuemail.ifpe.edu.br/
     
     
  
