@@ -170,7 +170,7 @@ params:
       category: IFPE
       link: https://ti.ifpe.edu.br/atendimento/
     - name: Meu Acesso
-      description: Gerencie sua conta: troca de senha ou alteração de dados.
+      description: Gerencie sua conta troca de senha ou alteração de dados.
       category: IFPE
       link: https://acesso.ifpe.edu.br/
       
