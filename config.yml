@@ -173,15 +173,7 @@ params:
       description: Gerencie sua conta: troca de senha ou alteração de dados.
       category: IFPE
       link: https://acesso.ifpe.edu.br/
-    - name: Cadastro
-      description: Solicitação de Cadastro aos Sistemas IFPE.
-      category: IFPE
-      link: https://cadastro.ifpe.edu.br/signup/
-    - name: Meu Email IFPE
-      description: E-mail Institucional do IFPE.
-      category: IFPE
-      link: https://meuemail.ifpe.edu.br/
-    
+      
     
  
   # What date format to use?
