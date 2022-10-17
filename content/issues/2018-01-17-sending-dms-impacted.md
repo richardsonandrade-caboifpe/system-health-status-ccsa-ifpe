@@ -1,15 +1,14 @@
 ---
-title: Issues Sending DMs
-date: 2017-12-17 16:24:00
-resolved: true
-resolvedWhen: 2017-12-17 16:58:00
-# Possible severity levels: down, disrupted, notice
-severity: disrupted
-affected:
-  - API
 section: issue
+title: "[Problema em Aberto] -  Protocolo de Segurança no acesso ao Sistema"
+date: 2017-12-17 16:24:00
+resolved: false
+pin: true
+resolvedWhen: 2017-12-17 16:58:00
+affected:
+  - SEI IFPE
+severity: down
 ---
+*Update* - This incident has been started.
 
-*Update* - This incident has been resolved.
-
-*Investigating* - We're aware of an issue affecting sending DMs and viewing online friends. We're online and working on a resolution.
+*Investigating* - We're aware of an issue can affect the security. Possibly SSH certificate or key.
