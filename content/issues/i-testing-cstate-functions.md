@@ -13,6 +13,4 @@ O sistema de chamados passará por correções, modificações e testes até o f
 
 Diante desse fato, o sistema de chamados pode apresentar lentidão, indisponibilidade ou comportamento inesperado.
 
-D﻿escupalmos pels transtornos gerados.
-
-G﻿rato pela comprensão pelos transtorno gerados.
+G﻿rato pela comprensão.
