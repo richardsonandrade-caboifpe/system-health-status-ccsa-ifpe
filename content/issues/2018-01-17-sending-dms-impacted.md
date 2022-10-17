@@ -6,9 +6,9 @@ resolved: false
 pin: true
 resolvedWhen: 2017-12-17 16:58:00
 affected:
-  - SEI IFPE
+  - Abertura de Chamados de Suporte
 severity: down
 ---
-*Update* - This incident has been started.
+*Atualização* - Este incidente foi iniciado.
 
-*Investigating* - We're aware of an issue can affect the security. Possibly SSH certificate or key.
+*Investigando* - Estamos cientes de que um problema pode afetar a segurança. Possivelmente certificado ou chave SSH.
