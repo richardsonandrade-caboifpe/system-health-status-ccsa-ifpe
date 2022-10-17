@@ -1,10 +1,14 @@
 ---
-title: Testing New cState Features
-date: 2019-10-04 18:05:00
-informational: true
 section: issue
+title: Instabilidade no Sistema
+date: 2022-10-18T02:02:47.643Z
+informational: true
+pin: true
+resolvedWhen: 2022-10-22T02:02:44.639Z
+affected:
+  - Abertura de Chamados de Suporte
+severity: disrupted
 ---
+O sistema de chamados passará por correções, modificações internamento. A previsão de instabilidade ocorra até final de semana.
 
-There is a new feature in cState version 4 that lets you make what are called _informational_ posts. The main difference is that there will be no _Unresolved_ or _Resolved in under a minute_ text on the pages.
-
-This is essentially a page with a date and title that shows up in the incident history.
+G﻿rato pela comprensão pelos transtorno gerados.
