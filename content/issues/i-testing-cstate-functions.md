@@ -11,7 +11,7 @@ severity: disrupted
 ---
 O sistema de chamados passará por correções, modificações e testes até o final de semana.
 
-Diante desse fato,pode apresentar lentidão, indisponibilidade ou comportamento inesperado.
+Diante desse fato, o sistema de chamados pode apresentar lentidão, indisponibilidade ou comportamento inesperado.
 
 D﻿escupalmos pels transtornos gerados.
 
